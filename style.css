@@ -1,0 +1,25 @@
+html {
+    font-size: 62.5%
+}
+
+body {
+    display: -moz-inline-box;
+    font-family: 'Tajawal', monospace;
+    max-height: 100vh;
+    margin: 5% 5% 5% 5%;
+    padding: 5% 5% 5% 5%;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 14vw;
+    font-family: 'Rock Salt', sans-serif;
+}
+
+h2 {
+    font-size: 6vw;
+}
+
+p {
+    font-size: 3vw;
+}
